@@ -15,7 +15,7 @@ that's all. Isn't that minimal :)?
 <summary>PEGGGYYYYYYY</summary>
 <br>
 <a href="https://www.last.fm/music/JPEGMAFIA/_/END+CREDITS"><img src="https://cdn.simpleicons.org/lastdotfm/ffffff" alt="LastFM" width="23" height="23"></a>
-**```
+```
 You pull up to a red light
 A man jerks your door open,
 says
@@ -25,5 +25,5 @@ You know what I do?
 I pull out the Glock, put it on his forehead
 And spill his brains all over
 the concrete
-```**
+```
 </details>
