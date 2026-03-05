@@ -6,7 +6,7 @@
 &nbsp;&nbsp;
 <a href="https://www.last.fm/user/vesaber"><img src="https://cdn.simpleicons.org/lastdotfm/ffffff" alt="LastFM" width="40" height="40"></a>
 
-Fluxer downtime part. 2
+Just found out my commits didn't show up on my profile. I'm gonna cry
 
 ## About Me
 Hi, I'm saber.
