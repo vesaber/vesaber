@@ -6,7 +6,9 @@
 &nbsp;&nbsp;
 <a href="https://www.last.fm/user/vesaber"><img src="https://cdn.simpleicons.org/lastdotfm/ffffff" alt="LastFM" width="40" height="40"></a>
 
-![Currently listening to](https://lastfm-profile-readme.vercel.app/api/vesaber)
+<p align="center">
+  <img src="https://lastfm-profile-readme.vercel.app/api/vesaber" width="480">
+</p>
 
 ## About Me
 Hi, I'm saber.
