@@ -12,8 +12,16 @@ I'm a german student aiming to major CS. I love homelabbing, programming and lea
 that's all. Isn't that minimal :)?
 
 ## Languages
+<p>
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/>
+&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/javascript-light.png" title="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/typescript-light.png" title="TypeScript" width="40" height="40">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/docker-light.png" title="Docker" width="40" height="40">
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/linux-light.png" title="Linux" width="40" height="40">
+</p>
 
 . . .
 
