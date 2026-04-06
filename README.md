@@ -6,14 +6,13 @@
 &nbsp;&nbsp;
 <a href="https://www.last.fm/user/vesaber"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/last-fm-light.png" alt="LastFM" width="40" height="40"></a>
 
-<p align="center">
-  <img src="https://lastfm-profile-readme.vercel.app/api/vesaber" width="480">
-</p>
-
 ## About Me
 Hi, I'm saber.
 I'm a german student aiming to major CS. I love homelabbing, programming and learning new things.
 that's all. Isn't that minimal :)?
+
+## Languages
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/></a>
 
 . . .
 
