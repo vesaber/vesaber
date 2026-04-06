@@ -13,6 +13,7 @@ that's all. Isn't that minimal :)?
 
 ## Languages
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/javascript-light.png" title="JavaScript" width="40" height="40"/>
 
 . . .
 
