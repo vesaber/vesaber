@@ -12,7 +12,7 @@ I'm a german student aiming to major CS. I love homelabbing, programming and lea
 that's all. Isn't that minimal :)?
 
 ## Languages
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/></a>
+<img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/>
 
 . . .
 
