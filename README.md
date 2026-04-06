@@ -11,7 +11,7 @@ Hi, I'm saber.
 I'm a german student aiming to major CS. I love homelabbing, programming and learning new things.
 that's all. Isn't that minimal :)?
 
-## Languages
+## Coding Languages & Stuff
 <p>
 <img src="https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/rust-light.png" title="Rust" width="40" height="40"/>
 &nbsp;
