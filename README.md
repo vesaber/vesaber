@@ -8,14 +8,14 @@
 <a href="https://discord.com/users/1378434721662369854"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/></a>
 <a href="https://www.last.fm/user/vesaber"><img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white"/></a>
 
+<img src="https://count.getloli.com/@vesaber?theme=rule34"/>
+
 </div>
 
 ## About Me
 
-Hi, I'm saber.  
-German student aiming to major in CS. I love homelabbing, programming and learning new things.  
-That's all. Isn't that minimal :)?
-
+Hi, I'm saber.
+German student aiming to major in CS. I love homelabbing, programming and learning new things.
 
 ## Languages & Tools
 
