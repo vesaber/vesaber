@@ -7,6 +7,7 @@
 
 <a href="https://discord.com/users/1378434721662369854"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/></a>
 <a href="https://www.last.fm/user/vesaber"><img src="https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/vesaber/"><img src="https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white"/></a>
 
 <img src="https://count.getloli.com/@vesaber?theme=rule34"/>
 
