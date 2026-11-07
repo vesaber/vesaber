@@ -16,7 +16,7 @@
 ## About Me
 
 Hi, I'm saber.
-German student aiming to major in CS. I love homelabbing, programming and learning new things.
+German. I love homelabbing and programming.
 
 ## Languages & Tools
 
